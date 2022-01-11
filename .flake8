@@ -1,3 +1,0 @@
-[flake8]
-ignore = E501
-exclude = crypto_address_validator/validators/crypto/
